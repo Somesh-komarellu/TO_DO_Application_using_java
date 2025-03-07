@@ -49,9 +49,6 @@ A simple **To-Do application** built using **Java**, running on **Tomcat Server 
 4. **Run the application**  
    - **Right-click project** → **Run on Server** → **Select Tomcat 7**  
 
-## 📸 Screenshots
-
-(Add screenshots of your app in action here)
 
 ## 🎯 Future Enhancements
 
