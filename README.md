@@ -6,7 +6,7 @@ A simple **To-Do application** built using **Java**, running on **Tomcat Server 
 
 - ✅ Add new tasks  
 - 📝 Edit existing tasks  
-- ❌ Delete tasks  
+- ❌ 
 - 📌 Mark tasks as completed  
 - 📋 View all pending and completed tasks  
 
